@@ -11,3 +11,11 @@ Desenvolvedor: Diogenes de Souza
   <img src="https://github.com/diogenesNegreiros/DivideConta/blob/master/Logo%20Burlesque.png" width="350" title="hover text">
 
 </p>
+
+imagem da tela
+
+<p align="center">
+  <img src="https://github.com/diogenesNegreiros/DivideConta/blob/master/tela_divide.png" width="600" title="hover text">
+
+</p>
+
