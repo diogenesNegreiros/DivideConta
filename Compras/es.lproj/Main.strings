@@ -1,0 +1,169 @@
+/* Class = "UILabel"; text = "R$"; ObjectID = "1gM-ym-bsY"; */
+"1gM-ym-bsY.text" = " $";
+
+/* Class = "UINavigationItem"; title = "Valor de Venda"; ObjectID = "2R3-lm-uLP"; */
+"2R3-lm-uLP.title" = "Valor de Venda";
+
+/* Class = "UILabel"; text = "%"; ObjectID = "4Co-en-fIf"; */
+"4Co-en-fIf.text" = "%";
+
+/* Class = "UILabel"; text = "com"; ObjectID = "59e-8Y-3eh"; */
+"59e-8Y-3eh.text" = "con";
+
+/* Class = "UILabel"; text = "do valor"; ObjectID = "6Tk-gh-wrR"; */
+"6Tk-gh-wrR.text" = "el valor";
+
+/* Class = "UILabel"; text = "de"; ObjectID = "D4w-z5-L22"; */
+"D4w-z5-L22.text" = "de";
+
+/* Class = "UILabel"; text = "R$"; ObjectID = "DQO-UT-Mra"; */
+"DQO-UT-Mra.text" = " $";
+
+/* Class = "UILabel"; text = "Unidade(venda)"; ObjectID = "G7X-5V-xR7"; */
+"G7X-5V-xR7.text" = "Venta de la unidad";
+
+/* Class = "UILabel"; text = "Show artístico"; ObjectID = "JhA-I5-baV"; */
+"JhA-I5-baV.text" = "Exhibición artística";
+
+/* Class = "UILabel"; text = "Total Pago"; ObjectID = "KJ7-UC-LTE"; */
+"KJ7-UC-LTE.text" = "Pagado total";
+
+
+/* Class = "UILabel"; text = "Período (n)"; ObjectID = "Lo6-iQ-Jjm"; */
+"Lo6-iQ-Jjm.text" = "Período";
+
+/* Class = "UILabel"; text = "Valor base (P)"; ObjectID = "MTl-Qb-eTw"; */
+"MTl-Qb-eTw.text" = "La base del valor";
+
+/* Class = "UILabel"; text = "%"; ObjectID = "MnN-qP-CC8"; */
+"MnN-qP-CC8.text" = "%";
+
+/* Class = "UILabel"; text = "R$"; ObjectID = "O8h-xm-lKN"; */
+"O8h-xm-lKN.text" = " $";
+
+/* Class = "UILabel"; text = "Quantidade"; ObjectID = "Pqw-yl-BPl"; */
+"Pqw-yl-BPl.text" = "Cantidade";
+
+/* Class = "UILabel"; text = "Total da conta"; ObjectID = "Qb8-ZS-SVC"; */
+"Qb8-ZS-SVC.text" = "Factura total";
+
+/* Class = "UILabel"; text = "Quantidade de pessoas"; ObjectID = "RYt-mp-AkK"; */
+"RYt-mp-AkK.text" = "Cantidad de personas";
+
+/* Class = "UILabel"; text = "Juros (i)"; ObjectID = "So8-R1-926"; */
+"So8-R1-926.text" = "Interés";
+
+/* Class = "UILabel"; text = "Lucro Total Desejado "; ObjectID = "Su4-r3-xPi"; */
+"Su4-r3-xPi.text" = "Beneficio deseado";
+
+/* Class = "UILabel"; text = "Juros (i)"; ObjectID = "T3s-Ih-kFJ"; */
+"T3s-Ih-kFJ.text" = "Intérés";
+
+/* Class = "UILabel"; text = "R$"; ObjectID = "TIH-g3-EiZ"; */
+"TIH-g3-EiZ.text" = " $";
+
+/* Class = "UILabel"; text = "Percentual de Lucro"; ObjectID = "U3Q-Uw-MYP"; */
+"U3Q-Uw-MYP.text" = "Margen de Utilidad";
+
+/* Class = "UILabel"; text = "Período (n)"; ObjectID = "VXk-0z-L92"; */
+"VXk-0z-L92.text" = "Período(n)";
+
+/* Class = "UILabel"; text = "Simular Financiamento"; ObjectID = "Vv4-bU-dru"; */
+"Vv4-bU-dru.text" = "Simular financiación";
+
+/* Class = "UILabel"; text = "meses"; ObjectID = "Vx7-Ny-78R"; */
+"Vx7-Ny-78R.text" = "meses";
+
+/* Class = "UILabel"; text = "Valor de Lucro"; ObjectID = "X6z-Hh-rJi"; */
+"X6z-Hh-rJi.text" = "De generación de valor";
+
+/* Class = "UILabel"; text = "Total da compra"; ObjectID = "ZGX-zJ-wsb"; */
+"ZGX-zJ-wsb.text" = "Compras totales";
+
+/* Class = "UILabel"; text = "R$"; ObjectID = "Zc7-er-aom"; */
+"Zc7-er-aom.text" = " $";
+
+/* Class = "UILabel"; text = "R$"; ObjectID = "aBb-mo-CBy"; */
+"aBb-mo-CBy.text" = " $";
+
+/* Class = "UILabel"; text = "R$"; ObjectID = "aSM-9X-VQi"; */
+"aSM-9X-VQi.text" = " $";
+
+/* Class = "UILabel"; text = "Valor"; ObjectID = "afB-G3-Gsd"; */
+"afB-G3-Gsd.text" = "Valor";
+
+/* Class = "UISegmentedControl"; ddQ-u2-XyZ.segmentTitles[0] = "ao mês"; ObjectID = "ddQ-u2-XyZ"; */
+"ddQ-u2-XyZ.segmentTitles[0]" = "mes";
+
+/* Class = "UISegmentedControl"; ddQ-u2-XyZ.segmentTitles[1] = "ao ano"; ObjectID = "ddQ-u2-XyZ"; */
+"ddQ-u2-XyZ.segmentTitles[1]" = "año";
+
+/* Class = "UILabel"; text = "na tabela PRICE?"; ObjectID = "fEv-TS-RZs"; */
+"fEv-TS-RZs.text" = "la tabla de PRICE";
+
+/* Class = "UISegmentedControl"; hky-EP-Y94.segmentTitles[0] = "ao mês"; ObjectID = "hky-EP-Y94"; */
+"hky-EP-Y94.segmentTitles[0]" = "mes";
+
+/* Class = "UISegmentedControl"; hky-EP-Y94.segmentTitles[1] = "ao ano"; ObjectID = "hky-EP-Y94"; */
+"hky-EP-Y94.segmentTitles[1]" = "año";
+
+/* Class = "UILabel"; text = "Gorjeta do garçom?"; ObjectID = "hvs-t3-EWK"; */
+"hvs-t3-EWK.text" = "Tasa de servicio";
+
+/* Class = "UILabel"; text = "A porcentagem de"; ObjectID = "iIq-Ju-6pv"; */
+"iIq-Ju-6pv.text" = "El porcentaje de";
+
+/* Class = "UILabel"; text = "R$"; ObjectID = "ixj-xQ-qH9"; */
+"ixj-xQ-qH9.text" = " $";
+
+/* Class = "UILabel"; text = "R$"; ObjectID = "jxx-2z-NtM"; */
+"jxx-2z-NtM.text" = " $";
+
+/* Class = "UILabel"; text = "Percentual de "; ObjectID = "lgK-Wd-UYT"; */
+"lgK-Wd-UYT.text" = "el porcentaje de";
+
+
+/* Class = "UILabel"; text = "Descontos"; ObjectID = "m7E-ob-Tye"; */
+"m7E-ob-Tye.text" = "Descuentos";
+
+/* Class = "UILabel"; text = "R$"; ObjectID = "nGC-1T-3r2"; */
+"nGC-1T-3r2.text" = " $";
+
+/* Class = "UILabel"; text = "R$"; ObjectID = "nfc-u8-nSG"; */
+"nfc-u8-nSG.text" = " $";
+
+/* Class = "UILabel"; text = "Valor de Venda"; ObjectID = "o2x-ZC-CBG"; */
+"o2x-ZC-CBG.text" = "valor comercial";
+
+/* Class = "UILabel"; text = "R$"; ObjectID = "o9I-nD-bqQ"; */
+"o9I-nD-bqQ.text" = " $";
+/* Class = "UILabel"; text = "%"; ObjectID = "oOU-5b-emM"; */
+"oOU-5b-emM.text" = "%";
+
+/* Class = "UILabel"; text = "meses"; ObjectID = "qz0-yc-K6Q"; */
+"qz0-yc-K6Q.text" = "meses";
+
+//* Class = "UILabel"; text = "representa no valor"; ObjectID = "uJx-cf-9sn"; */
+"uJx-cf-9sn.text" = "Es la cantidad";
+
+/* Class = "UILabel"; text = "Valor base (P)"; ObjectID = "ukr-O7-577"; */
+"ukr-O7-577.text" = "Base de la valeur";
+
+
+/* Class = "UILabel"; text = "Quantidade"; ObjectID = "w27-wf-FIG"; */
+"w27-wf-FIG.text" = "Cantidad";
+
+/* Class = "UILabel"; text = "R$"; ObjectID = "x4Y-kB-dRb"; */
+"x4Y-kB-dRb.text" = " $";
+
+/* Class = "UILabel"; text = "R$"; ObjectID = "ys8-0c-X5p"; */
+"ys8-0c-X5p.text" = " $";
+
+/* Class = "UISegmentedControl"; zOU-UP-10S.segmentTitles[0] = "Desconto"; ObjectID = "zOU-UP-10S"; */
+"zOU-UP-10S.segmentTitles[0]" = "Descuento";
+
+/* Class = "UISegmentedControl"; zOU-UP-10S.segmentTitles[1] = "Acrescimo"; ObjectID = "zOU-UP-10S"; */
+"zOU-UP-10S.segmentTitles[1]" = "Aumentar";
+
+/* Class = "UILabel"; text = "%"; ObjectID = "zWy-6A-Mgc"; */
+"zWy-6A-Mgc.text" = "%";

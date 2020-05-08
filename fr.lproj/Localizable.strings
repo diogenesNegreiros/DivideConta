@@ -1,0 +1,86 @@
+/* 
+  Localizable.strings
+  Compras
+
+  Created by Diogenes de Souza Negreiros on 04/02/17.
+  Copyright © 2017 Diogenes. All rights reserved.
+*/
+
+"CFBundleDisplayName" = "App Name";
+"CFBundleName" = "App Name";
+"SeparadorDecimal" = ",";
+
+"Ale_tit" = "Attention!";
+"Ale_msg" = "S'il vous plaît entrer uniquement des nombres au format entier ou décimal en utilisant une virgule ou un point. \nPar exemple : \n12 \n12,00 \n1234.40!";
+
+"Ale_tit_int" = "Attention!";
+"Ale_msg_int" = "S'il vous plaît entrer uniquement des nombres au format entier. \nPar exemple : \n12 \n120 \n1234!";
+
+"Por_val" = "Valeur";
+"Por_com" = "pour";
+"Por_de" = "a ";
+"Por_des" = "Remise";
+"Por_acr" = "Extra";
+"Por_a_por_de" = "La valeur";
+"Por_cif" = " $";
+"Por_rep_no" = "Représente la valeur";
+"Por_per_de" = "Pourcentage";
+"Por_do_val" = "de la valeur";
+
+"Jur_s_val" = "Valeur de base (P)";
+"Jur_s_jur" = "Intérêt (i)";
+"Jur_s_per" = "Période (No)";
+"Jur_s_mes" = "mois";
+"Jur_s_esc_mes" = "mois";
+"Jur_s_esc_ano" = "un an";
+
+"Jur_c_val" = "Valeur de base (P)";
+"Jur_c_jur" = "Intérêt (i)";
+"Jur_c_per" = "Période (n)";
+"Jur_s_mes" = "mois";
+"Jur_c_esc_mes" = "mois";
+"Jur_c_esc_ano" = "un an";
+"Jur_c_esc_pri" = "Simuler financement dans le tableau des PRICE";
+
+
+"Val_luc_qua" = "Quantité";
+"Val_luc_tot" = "Total";
+"Val_luc_uni" = "Unité (vente)";
+
+"Val_ven_qua" = "Quantité";
+"Val_ven_tot" = "Total payé";
+"Val_ven_des" = "profit total désiré";
+"Val_ven_per" = "Profit Pourcentage";
+
+"Div_tot" = "compte Total";
+"Div_qua" = "Nombre de personnes";
+"Div_sho" = "Affichage artistique:";
+"Div_gar" = "Service";
+"Div_des" = "Off";
+
+"Tex_aju" = "<style>body{background-color:#F0FFF0}ul{font-style:italic; font-size:large;color: black;}h1 {color:2F4F4F;text-align: center;font-style:italic;text-shadow: 696969 1px 1px 1px}h2{color:2F4F4F;text-align:left;font-style:italic;text-shadow: 696969 1px 1px 1px}p{font-style:italic;font-size:large;color: black;}</style><h1>Pourcentage</h1><p>Est-ce que les pourcentages des calculs couramment utilis&eacute;s dans la vie quotidienne.</p><ul><li>Calcule une valeur avec un pourcentage de r&eacute;duction ou d'augmentation, appuyez simplement sur le bouton appropri&eacute; pour cela.</li><li>Calcule le pourcentage que repr&eacute;sente la premi&egrave;re valeur est la seconde valeur.</li><li>Calcule le pourcentage d'une valeur.</li></ul><h1>Int&eacute;r&ecirc;ts simples</h1><p>Faites des calculs math&eacute;matiques en utilisant la formule de l'int&eacute;r&ecirc;t simple, tr&egrave;s utilis&eacute; dans les tests de math&eacute;matiques.</p><p>Utilis&eacute; lorsque le pourcentage d'int&eacute;r&ecirc;t se concentrer uniquement sur le montant principal.</p><p>Sur l'int&eacute;r&ecirc;t g&eacute;n&eacute;r&eacute; chaque p&eacute;riode ne traitera pas des int&eacute;r&ecirc;ts nouveaux.</p><p>Notionnel ou simplement le montant initial emprunt&eacute; ou appliqu&eacute;e avant d'ajouter l'int&eacute;r&ecirc;t.</p><p>Rendre ont la formule:</p><p>J = P.i.n.</p><p>o&ugrave;:</p><ul><li>J = int&eacute;r&ecirc;t.</li><li>P = principal (capital).</li><li>i = taux d'int&eacute;r&ecirc;t.</li><li>n = nombre de p&eacute;riodes.</li></ul><ul><li>Valeur de base (P): Le emprunt&eacute;, le bien ou le capital investi.</li><li>Taux d'int&eacute;r&ecirc;t (i): Entrez le taux d'int&eacute;r&ecirc;t en choisissant si ce sera un an ou mois.</li><li>P&eacute;riode (n): Saisissez la p&eacute;riode en mois.</li></ul><h1>Int&eacute;r&ecirc;ts compos&eacute;s</h1><ul><li>Valeur de base (P): Le emprunt&eacute;, le bien ou le capital investi.</li><li>Taux d'int&eacute;r&ecirc;t (i): Entrez le taux d'int&eacute;r&ecirc;t en choisissant si ce sera un an ou mois.</li><li>P&eacute;riode (n): Saisissez la p&eacute;riode en mois.</li></ul><p>Le r&eacute;gime de l'int&eacute;r&ecirc;t compos&eacute; est le plus commun dans le syst&egrave;me financier et donc le plus utile pour les probl&egrave;mes de calcul du jour le jour. Utilis&eacute; pour simuler le financement et les pr&ecirc;ts. Les int&eacute;r&ecirc;ts g&eacute;n&eacute;r&eacute;s chaque p&eacute;riode sont incorpor&eacute;s dans la principale du calcul des int&eacute;r&ecirc;ts pour la p&eacute;riode suivante.</p><h2>A propos de calcul en utilisant la table PRICE</h2><p>Un plan de financement est un moyen de calculer et d'ajuster leur disposition. La table PRICE (syst&egrave;me d'amortissement fran&ccedil;ais) est utilis&eacute; par toutes les banques dans le financement direct. Syst&egrave;me &eacute;galement utilis&eacute; par les d&eacute;taillants et financi&egrave;re cr&eacute;dit &agrave; la consommation.</p><p>Pour utiliser cette m&eacute;thode d&eacute;clenche la touche correspondante.</p><p>Remarque: Dans ce calcul ne sont pas consid&eacute;r&eacute;s de toute taxe suppl&eacute;mentaire.</p><p>La formule est la m&ecirc;me que celle utilis&eacute;e sur le site de la Banque centrale du Br&eacute;sil.</p><h1>Profit Valeur</h1><p>Il facilite le travail des commer&ccedil;ants et des vendeurs rapidement calcule les profits de la vente de produits.</p><ul><li>Entrez la quantit&eacute; de produits.</li><li>Total consacr&eacute; &agrave; l'achat de produits.</li><li>La valeur qui sera vendu &agrave; l'unit&eacute; de produit.</li></ul><h1>Valeur de vente</h1><ul><li>Il facilite le travail des commer&ccedil;ants et des vendeurs rapidement calcule la valeur que le produit devra &ecirc;tre vendu pour certain profit.</li><li>Entrez la quantit&eacute; de produits.</li><li>Total consacr&eacute; &agrave; l'achat de produits.</li><li>Le b&eacute;n&eacute;fice total que vous voulez avoir avec la vente de produits.</li></ul><p>Il a zone de texte correspondant au pourcentage du b&eacute;n&eacute;fice obtenu.</p><h1>Compte Divide</h1><p>Utilis&eacute; pour diviser la facture de restaurant et d'autres achats avec vos amis ou en famille.</p><p>Les champs &agrave; remplir:</p><ul><li>Compte Total: Entrez les valeurs des produits consomm&eacute;s dans la bo&icirc;te et appuyez sur le bouton (+) pour ajouter une fois termin&eacute; appuyez sur la touche (=) pour le montant total consomm&eacute;.</li><li>nombre de personnes: Entrez ici le nombre de personnes qui se partageront le projet de loi.</li><li>Affichage artistique: Entrez la valeur de l'&eacute;mission, si aucun laissez vide.</li><li>Les frais de service: Activez ce commutateur si vous payez du serveur, tapez à côté du pourcentage de remise.</li><li>R&eacute;ductions: Entrez ici les valeurs qui ne seront pas entrer dans la salle, &agrave; &ecirc;tre pay&eacute;s s&eacute;par&eacute;ment ou des remises accord&eacute;es par l'&eacute;tablissement.</li></ul><br><br>";
+
+"Text_comprar_button" = "Acheter l'app complète sans publicité!";
+
+"Men_tit" = "Menu";
+"Men_por" = "Pourcentage";
+"Men_jur_s" = "Intérêt simple";
+"Men_jur_c" = "Intérêt composé";
+"Men_val_l" = "Valeur de profit";
+"Men_val_v" = "Valeur de vente";
+"Men_div" = "Diviser le compte";
+"Men_aju" = "Aide";
+"Men_sob" = "Sur";
+"Men_no_Anuncio" = "App sans publicité";
+
+"Sob_tit"= "Sur";
+
+
+"Sob_app" = "Bienvenue! Cette application vous aidera à calculer la valeur du compte dans le restaurant et le partager avec vos amis, l'application résume rapidement la valeur de tous les produits consommés, calcule les valeurs du conseil du serveur et le spectacle artistique et attribue également des valeurs d'escompte pour paiement individuel. En utilisant l'application est simple, entrez les valeurs requises, appuyez sur «OK» pour créer le compte ou «Supprimer» pour effacer les champs.";
+
+"Res_val_jur"= "Valeur totale d'intérêt: $%@ \nMontant à payer: $%@ \nFourniture de valeur:: $%@";
+"Res_val_jur_com"= "Valeur totale d'intérêt: $%@ \nMontant à payer: $%@ \nFourniture de valeur:: $%@";
+"Res_cal_luc"= "Total amount of interest: $%@\nAmount payable: $%@\nAmount of installment: %@%@";
+"Res_cal_val_ven"= "Achat du produit: $%@\nLes ventes de produits: $%@\nLe bénéfice par produit: $%@\nTotal des ventes: $%@\nRésultat total: $%@";
+"Res_div_con"= "Facture totale: $%@\nPrix par personne: $%@\nAffichage artistique: $%@\nLes frais de service: $%@\nRéduit: $%@";
+"Res_por_cif"= "$%.2f";

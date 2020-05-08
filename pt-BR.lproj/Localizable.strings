@@ -1,0 +1,93 @@
+/* 
+  Localizable.strings
+  Compras
+
+  Created by Diogenes de Souza Negreiros on 04/02/17.
+  Copyright © 2017 Diogenes. All rights reserved.
+*/
+
+"CFBundleDisplayName" = "App Name";
+"CFBundleName" = "App Name";
+"SeparadorDecimal" = ",";
+
+"Ale_tit" = "Aviso!";
+"Ale_msg" = "Favor digitar somente números no formato inteiro ou decimal usando vírgula ou ponto.\nPor exemplo:\n12 \n12.00 \n1234,40!";
+
+"Ale_tit_int" = "Aviso!";
+"Ale_msg_int" = "Favor digitar somente números no formato inteiro.\nPor exemplo:\n120 \n12 \n1239!";
+
+"Por_val" = "Valor";
+"Por_com" = "com";
+"Por_de" = "de";
+"Por_des" = "Desconto";
+"Por_acr" = "Acréscimo";
+"Por_a_por_de" = "O valor";
+"Por_cif" = "R$";
+"Por_rep_no" = "Representa no valor";
+"Por_per_de" = "Percentual de";
+"Por_do_val" = "do valor";
+
+"Jur_s_val" = "Valor Base(P)";
+"Jur_s_jur" = "Juros(i)";
+"Jur_s_per" = "Período(n)";
+"Jur_s_mes" = "meses";
+"Jur_s_esc_mes" = "ao mês";
+"Jur_s_esc_ano" = "ao ano";
+
+"Jur_c_val" = "Valor Base(P)";
+"Jur_c_jur" = "Juros(i)";
+"Jur_c_per" = "Período(n)";
+"Jur_s_mes" = "meses";
+"Jur_c_esc_mes" = "ao mês";
+"Jur_c_esc_ano" ="ao ano";
+"Jur_c_esc_pri" = "Simular financiamento na tabela PRICE";
+
+
+"Val_luc_qua" = "Quantidade";
+"Val_luc_tot" = "Total";
+"Val_luc_uni" = "Unidade(venda)";
+
+"Val_ven_qua" = "Quantidade";
+"Val_ven_tot" = "Total pago";
+"Val_ven_des" = "Lucro total desejado";
+"Val_ven_per" = "Percentual de lucro";
+
+"Div_tot" = "Total da conta";
+"Div_qua" = "Quantidade de pessoas";
+"Div_sho" = "Show artístico";
+"Div_gar" = "Gorjeta do garçom";
+"Div_des" = "Descontos";
+
+
+
+
+
+"Tex_aju" = "<style>body{background-color:#F0FFF0}ul{font-style:italic; font-size:large;color: black;}h1 {color:2F4F4F;text-align: center;font-style:italic;text-shadow: 696969 1px 1px 1px}h2{color:2F4F4F;text-align:left;font-style:italic;text-shadow: 696969 1px 1px 1px}p{font-style:italic;font-size:large;color: black;}</style><h1>Porcentagem</h1>        <p>Faz Cálculos de porcentagens mais usados no cotidiano.</p>   <ul><li>Calcula um valor qualquer com uma porcentagem em desconto ou acréscimo, basta acionar o botão adequado para isso.  </li><li>Calcula a porcentagem que o primeiro valor representa no segundo valor.</li>  <li>Calcula o percentual de um valor.</li>     </ul>        <h1>Juros Simples</h1>         <p>Faz cálculos matemáticos usando a fórmula de juros simples, muito empregado em provas de matemática.</p>     <p>Usado quando o percentual de juros incidir apenas sobre o valor principal.</p>       <p> Sobre os juros gerados a cada período não incidirão novos juros. </p>       <p> Valor Principal ou simplesmente principal é o valor inicial emprestado ou aplicado, antes de somarmos os juros. </p>        <p> Transformando em fórmula temos:</p> <p>J= P.i.n.<br><br>Onde:</p>       <ul><li>J = juros.</li>       <li>P = principal (capital).</li>        <li>i = taxa de juros.</li>      <li>n = número de períodos.</li>  </ul>      <ul><li>Valor Base (P): É o valor tomado emprestado, do bem ou do capital investido.</li>       <li>Taxa de juros(i): Digite a taxa de juros escolhendo se vai ser ao ano ou ao mês.</li>        <li>Período (n): Digite o período em meses.</li>        </ul><h1>Juros Compostos</h1><ul><li>Valor Base (P): É o valor tomado emprestado, do bem ou do capital investido.</li>       Taxa de juros(i): Digite a taxa de juros escolhendo se vai ser ao ano ou ao mês. </li>        <li>Período (n): Digite o período em meses.</li>   </ul><p>O regime de juros compostos é o mais comum no sistema financeiro e portanto, o mais útil para cálculos de problemas do dia-a-dia. Usado para simular financiamentos e empréstimos. Os juros gerados a cada período são incorporados ao principal para o cálculo dos juros do período seguinte.</p>        <h2>Sobre o cálculo usando a tabela PRICE</h2>      <p>Um plano de financiamento é uma forma de calcular e reajustar a sua prestação. A tabela PRICE(sistema francês de amortização) é  utilizada por todos os bancos nos financiamentos diretos. Sistema também utilizado pelos lojistas e financeiras no crédito direto ao consumidor.</p>       <p> Para utilizar esse método acione a chave correspondente.</p>    <p>Observação: Nesse cálculo não estão considerados qualquer taxa adicional.     </p><p>A fórmula é a mesma  usada no site do Banco Central do Brasil. </p>      <h1>Valor de Lucro</h1>    <p> Facilita o trabalho de comerciantes e vendedores, calcula rapidamente os lucros obtidos com a venda dos produtos.</p>       <ul>    <li>Digite a quantidade de produtos.</li>        <li>Total gasto com a compra dos produtos.</li>     <li>O valor que será vendido a unidade do produto.</li>     </ul>       <h1>Valor de venda</h1>       <p> Facilita o trabalho de comerciantes e vendedores, calcula rapidamente o valor que o produto terá que ser vendido para obter determinado lucro.</p>        <ul>    <li>Digite a quantidade de produtos.</li><li>Total gasto com a compra dos produtos.</li>      <li>O lucro total que deseja ter com a venda dos produtos.</li>     </ul>   <p>Possui caixa de texto correspondente a porcentagem de lucro obtida.</p>     <h1>Divide a Conta</h1>       <p>Usado para dividir a conta do restaurante e outras compras com seus amigos ou família.</p>       <p>Campos a serem preenchidos :</p>   <ul>      <li>Total da Conta:  Digite os valores  dos produtos consumidos na caixa e pressione o botão  (+) para somar quando terminar pressione o botão (=)para obter o valor total consumido.</li>           <li>Quantidade de Pessoas: Digite aqui a quantidade de pessoas que irão dividir a conta.</li>        <li>Show artístico: Digite o valor do show , se não houve deixe em branco.</li>       <li>Chave Garçom: Ligue essa chave se for pagar a taxa do Garçom, digitando ao lado a porcentagem do desconto.</li>      <li>Descontos: Coloque aqui os valores que não entrarão na divisão , que serão pagos separadamente ou descontos cedidos pelo estabelecimento.</li>      </ul><br><br>&nbsp;";
+
+"Text_comprar_button" = "Comprar app completo, sem propaganda!";
+
+"Men_tit" = "Menu";
+"Men_por" = "Porcentagem";
+"Men_jur_s" = "Juros simples";
+"Men_jur_c" = "Juros compostos";
+"Men_val_l" = "Valor de lucro";
+"Men_val_v" = "Valor de venda";
+"Men_div" = "Divide a conta";
+"Men_aju" = "Ajuda";
+"Men_sob" = "Sobre";
+"Men_no_Anuncio" = "App sem propagandas";
+
+"Sob_tit"= "Sobre ";
+
+
+"Sob_app" = "Bem vindo! Este App vai te ajudar  a calcular o valor da  conta no restaurante e dividir com os amigos, o app soma rapidamente o valor de todos os produtos consumidos, faz cálculos dos valores da gorjeta do garçon e do show artístico e também atribui valores de desconto para pagamento individual. \nUsar o App é simples, digite os valores requeridos, pressione 'OK' para fazer a conta ou 'Apagar' para limpar os campos.";
+
+
+
+
+"Res_val_jur"= "Valor total de Juros:  R$%@\nMontante a pagar:  R$%@\nValor da prestação:  R$%@";
+"Res_val_jur_com"= "Valor total de Juros:  R$%@\nMontante a pagar:  R$%@\nValor da prestação:  R$%@";
+"Res_cal_luc"= "Total de Lucro: R$%@\nLucro por produto: R$%@\nPercentual de lucro: %@%@";
+"Res_cal_val_ven"= "Compra do produto: R$%@\nVenda do produto: R$%@\nLucro por produto: R$%@\nTotal das vendas: R$%@\nTotal de lucro: R$%@";
+"Res_div_con"= "Total da conta: R$%@\nValor por pessoa: R$%@\nShow artístico: R$%@\nTotal do garçon: R$%@\nDescontou: R$%@";
+"Res_por_cif"= "R$%.2f";

@@ -1,0 +1,89 @@
+/* 
+  Localizable.strings
+  Compras
+
+  Created by Diogenes de Souza Negreiros on 04/02/17.
+  Copyright © 2017 Diogenes. All rights reserved.
+*/
+"CFBundleDisplayName" = "App Name";
+"CFBundleName" = "App Name";
+"SeparadorDecimal" = ",";
+
+"Ale_tit" = "Attenzione!";
+"Ale_msg" = "Si prega di inserire solo i numeri in formato intero o decimale con virgola o il punto \nPer esempio : \n12 \n10,00 \n1234.40!";
+
+"Ale_tit_int" = "Attenzione!";
+"Ale_msg_int" = "Si prega di inserire solo i numeri in formato intero. \nPer esempio : \n12 \n100 \n1234!";
+
+"Por_val" = "Valore";
+"Por_com" = "  a";
+"Por_de" = " di";
+"Por_des" = "Sconto";
+"Por_acr" = "Extra";
+"Por_a_por_de" = "Valore";
+"Por_cif" = " $";
+"Por_rep_no" = "Rappresenta il valore";
+"Por_per_de" = "Percentuale";
+"Por_do_val" = "del valore";
+
+"Jur_s_val" = "Valore di base (P)";
+"Jur_s_jur" = "interesse (i)";
+"Jur_s_per" = "Periodo (n)";
+"Jur_s_mes" = "mesi";
+"Jur_s_esc_mes" = "mese";
+"Jur_s_esc_ano" = "un anno";
+
+"Jur_c_val" = "Valore di base (P)";
+"Jur_c_jur" = "interesse (i)";
+"Jur_c_per" = "Periodo (n)";
+"Jur_s_mes" = "mesi";
+"Jur_c_esc_mes" = "mese";
+"Jur_c_esc_ano" = "un anno";
+"Jur_c_esc_pri" = "Simulare finanziamento nella tabella dei PRICE";
+
+
+"Val_luc_qua" = "Quantità";
+"Val_luc_tot" = "Total";
+"Val_luc_uni" = "solvente (Unité)";
+
+"Val_ven_qua" = "Quantità";
+"Pagato totale" = "Val_ven_tot";
+"Val_ven_des" = "profitto totale desiderata";
+"Val_ven_per" = "percentuale di profitto";
+
+"Div_tot" = "Conto totale";
+"Div_qua" = "Numero di persone";
+"Div_sho" = "Display artistico:";
+"Div_gar" = "mancia al cameriere";
+"Div_des" = "Off";
+
+
+
+
+
+"Tex_aju" = "<style>body{background-color:#F0FFF0}ul{font-style:italic; font-size:large;color: black;}h1 {color:2F4F4F;text-align: center;font-style:italic;text-shadow: 696969 1px 1px 1px}h2{color:2F4F4F;text-align:left;font-style:italic;text-shadow: 696969 1px 1px 1px}p{font-style:italic;font-size:large;color: black;}</style><h1>Percentuale</h1><p>Fa percentuali calcoli comunemente utilizzati nella vita quotidiana.</p><ul><li>Calcola qualsiasi valore con una percentuale di sconto o di aumento, &egrave; sufficiente premere il tasto appropriato per questo.</li><li>Calcola la percentuale che il primo valore &egrave; il secondo valore.</li><li>Calcola la percentuale di un valore.</li></ul><h1>Interesse semplice</h1><p>Fare calcoli matematici utilizzando la formula di interesse semplice, molto usato nei test di matematica.</p><p>Utilizzato quando la percentuale di interessi si concentrano solo sulla somma capitale.</p><p>L'interesse generato ogni periodo non affronter&agrave; nuovo interesse.</p><p>Nozionale o semplicemente principale &egrave; l'importo iniziale preso in prestito o applicato prima di aggiungere l'interesse.</p><p>Rendere hanno formula:</p><p>J = P.i.n.</p><p>dove:</p><ul><li>J = interessi.</li><li>P = capitale (capitale).</li><li>i = tasso di interesse.</li><li>n = numero di periodi.</li></ul><ul><li>Valore Base (P): &egrave; il prestito, il bene o il capitale investito.</li><li>Tasso di interesse (i): Inserire il tasso d'interesse, scegliendo se sar&agrave; un anno o un mese.</li><li>Periodo (n): Inserire il periodo di mesi.</li></ul><h1>Interesse composto</h1><ul><li>Valore Base (P): &egrave; il prestito, il bene o il capitale investito.</li><li>Tasso di interesse (i): Inserire il tasso d'interesse, scegliendo se sar&agrave; un anno o un mese.</li><li>Periodo (n): Inserire il periodo di mesi.</li></ul><p>Il regime di interesse composto &egrave; la pi&ugrave; comune nel sistema finanziario e quindi il pi&ugrave; utile per i problemi di calcolo del giorno, giorno per. Utilizzato per simulare finanziamenti e prestiti. Gli interessi generati ogni periodo sono incorporati nel principale al calcolo degli interessi per il periodo successivo.</p><h2>A proposito di calcolo utilizzando la tabella dei PRICE</h2><p>Un piano di finanziamento &egrave; un modo per calcolare e regolare la loro disposizione. La tabella dei PRICE (sistema di ammortamento francese) viene utilizzato da tutte le banche nel finanziamento diretto. Sistema utilizzato anche dai rivenditori e finanziaria nel credito al consumo.</p><p>Per utilizzare questo metodo attiva il tasto corrispondente.</p><p>Nota: In questo calcolo non sono considerati alcun costo aggiuntivo.</p><p>La formula &egrave; la stessa utilizzata sul sito della Banca Centrale del Brasile.</p><h1>Del profitto</h1><p>Facilita il lavoro di commercianti e venditori rapidamente calcola i profitti derivanti dalla vendita dei prodotti.</p><ul><li>Inserire la quantit&agrave; di prodotti.</li><li>Totale speso per l'acquisto di prodotti.</li><li>Il valore che verr&agrave; venduto l'unit&agrave; di prodotto.</li></ul><h1>Valore di vendita</h1><p>Facilita il lavoro di commercianti e venditori rapidamente calcola il valore che il prodotto dovr&agrave; essere venduto per certo profitto.</p><ul><li>Inserire la quantit&agrave; di prodotti.</li><li>Totale speso per l'acquisto di prodotti.</li><li>Il profitto totale che si desidera avere con la vendita dei prodotti.</li><li>Ha casella di testo corrispondente alla percentuale del profitto ottenuto.</li></ul><h1>Conto divide</h1><p>Utilizzato per dividere il conto del ristorante e altri acquisti con i tuoi amici o la famiglia.</p><p>I campi da riempire:</p><ul><li>Totale del conto: Inserire i valori dei prodotti consumati nella casella e premere il pulsante (+) per aggiungere Al termine, premere il pulsante (=) per l'importo totale consumato.</li><li>numero di persone: Inserire qui la quantit&agrave; di persone che dividere il conto.</li><li>Display artistico: Inserire il valore dello spettacolo, se non lasciare vuoto.</li><li>Costi di servizio: Accendere questo interruttore se si paga il del cameriere, digitare accanto alla percentuale di sconto.</li><li>Sconti: Inserire qui i valori che non entrano nella stanza, da pagare separatamente o sconti concessi dallo stabilimento.</li></ul><br><br>";
+
+"Text_comprar_button" = "Acquista l'intera app senza pubblicità!";
+
+"Men_tit" = "Menu";
+"Men_por" = "Percentuale";
+"Men_jur_s" = "Interesse semplice";
+"Men_jur_c" = "Interesse composto";
+"Men_val_l" = "Valore di profitto";
+"Men_val_v" = "Valore di vendita";
+"Men_div" = "Dividere il conto";
+"Men_aju" = "Aiutare";
+"Men_sob" = "Su App";
+"Men_no_Anuncio" = "App senza pubblicità";
+
+"Sob_tit"= "Su App";
+
+
+"Sob_app"  = "Benvenuto! Questa applicazione ti aiuterà a calcolare il valore dell'account nel ristorante e condividerlo con i tuoi amici, l'applicazione riassume rapidamente il valore di tutti i prodotti consumati, calcola i valori della punta del cameriere e lo spettacolo artistico e assegna anche i valori di sconto per il pagamento individuale. Utilizzando l'applicazione è semplice, immettere i valori richiesti, premere 'OK' per rendere l'account o 'Elimina' per cancellare i campi.";
+
+"Res_val_jur"= "Valore totale di interesse: $%@ \nImporto da pagare: $%@ \nFornitura di valore: $%@";
+"Res_val_jur_com"= "Valore totale di interesse: $%@ \nImporto da pagare: $%@ \nFornitura di valore: $%@";
+"Res_cal_luc"= "Total amount of interest: $%@\nAmount payable: $%@\nAmount of installment: %@%@";
+"Res_cal_val_ven"= "Acquisto del prodotto: $%@\nLe vendite di prodotti: $%@\nUtile per prodotto: $%@\nVendite totali: $%@\nProfitto totale: $%@";
+"Res_div_con"= "Conto totale: $%@\nPrezzo per persona: $%@\nDisplay artistico: $%@\nCosti di servizio: $%@\nScontato: $%@";
+"Res_por_cif"= "$%.2f";

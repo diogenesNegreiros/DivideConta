@@ -1,0 +1,10 @@
+/* 
+  InfoPlist.strings
+  Compras
+
+  Created by Diogenes de Souza Negreiros on 12/02/17.
+  Copyright © 2017 Diogenes. All rights reserved.
+*/
+
+"CFBundleDisplayName" = "Repartir cuenta";
+"CFBundleName" = "Repartir cuenta";

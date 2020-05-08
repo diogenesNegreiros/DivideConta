@@ -1,0 +1,90 @@
+/* 
+  Localizable.strings
+  Compras
+
+  Created by Diogenes de Souza Negreiros on 04/02/17.
+  Copyright © 2017 Diogenes. All rights reserved.
+*/
+
+"CFBundleDisplayName" = "App Name";
+"CFBundleName" = "App Name";
+"SeparadorDecimal" = ",";
+
+"Ale_tit" = "Advertencia!";
+"Ale_msg" = "Por favor, introduzca sólo números en formato de decimales o enteros utilizando coma o punto. \nPor ejemplo : \n12 \n12,00 \n1234.40!";
+
+"Ale_tit_int" = "Advertencia!";
+"Ale_msg_int" = "Por favor, introduzca sólo números en formato de enteros. \nPor ejemplo : \n10 \n120 \n1234!";
+
+"Por_val" = "Valor";
+"Por_com" = "  a";
+"Por_de" = "de";
+"Por_des" = "Descuento";
+"Por_acr" = "Extra";
+"Por_a_por_de" = "El valor";
+"Por_cif" = " $";
+"Por_rep_no" = "representa el valor";
+"Por_per_de" = "Porcentaje";
+"Por_do_val" = " del valor";
+
+"Jur_s_val" = "valor base (P)";
+"Jur_s_jur" = "El interés (i)";
+"Jur_s_per" = "Período (n)";
+"Jur_s_mes" = "meses";
+"Jur_s_esc_mes" = "mes";
+"Jur_s_esc_ano" = "un año";
+
+"Jur_c_val" = "valor base (P)";
+"Jur_c_jur" = "El interés (i)";
+"Jur_c_per" = "Período (n)";
+"Jur_s_mes" = "meses";
+"Jur_c_esc_mes" = "mes";
+"Jur_c_esc_ano" = "un año";
+"Jur_c_esc_pri" = "Simular la financiación en la tabla PRICE";
+
+
+"Val_luc_qua" = "Cantidad";
+"Val_luc_tot" = "Total";
+"Val_luc_uni" = "Unidades de venta";
+
+"Val_ven_qua" = "Cantidad";
+"Val_ven_tot" = "Total pagado";
+"Val_ven_des" = "ganancia total deseada";
+"Val_ven_per" = "Resultado Porcentaje";
+
+"Div_tot" = "cuenta total";
+"Div_qua" = "Número de personas";
+"Div_sho" = "Exhibición artística";
+"Div_gar" = "Tasa de servicio:";
+"Div_des" = "off";
+
+
+
+"Tex_aju" = "<style>body{background-color:#F0FFF0}ul{font-style:italic; font-size:large;color: black;}h1 {color:2F4F4F;text-align: center;font-style:italic;text-shadow: 696969 1px 1px 1px}h2{color:2F4F4F;text-align:left;font-style:italic;text-shadow: 696969 1px 1px 1px}p{font-style:italic;font-size:large;color: black;}</style><h1>Porcentaje</h1><p>Hace c&aacute;lculos porcentajes de uso com&uacute;n en la vida diaria.</p><ul><li>Calcula cualquier valor con un porcentaje de descuento o incremento, s&oacute;lo tiene que pulsar el bot&oacute;n apropiado para ello.</li><li>Calcula el porcentaje que el primer valor es el segundo valor.</li><li>Calcula el porcentaje de un valor.</li></ul><h1>Inter&eacute;s simple</h1><p>Hacer c&aacute;lculos matem&aacute;ticos utilizando la f&oacute;rmula de inter&eacute;s simple, muy utilizado en pruebas matem&aacute;ticas.</p><p>Se utiliza cuando el porcentaje de inter&eacute;s solamente se centran en la cantidad principal.</p><p>En el inter&eacute;s generado cada periodo no abordar&aacute; un nuevo inter&eacute;s.</p><p>Nocional o simplemente principal es la cantidad inicial prestado o aplicado antes de a&ntilde;adir el inter&eacute;s.</p><p>Por lo que es tiene la f&oacute;rmula:</p><p>J = P.i.n.</p><p>donde:</p><ul><li>J = inter&eacute;s.</li><li>P = Principal (capital).</li><li>i = tasa de inter&eacute;s.</li><li>n = n&uacute;mero de per&iacute;odos.</li><li>Base Valor (P): Es el valor tomado en pr&eacute;stamo, el bien o el capital invertido.</li><li>Tasa de inter&eacute;s (i): Introduzca la tasa de inter&eacute;s por la elecci&oacute;n de si va a ser un a&ntilde;o o mes.</li><li>Per&iacute;odo (n): Introduzca el per&iacute;odo en meses.</li></ul><h1>Inter&eacute;s compuesto</h1><ul><li>Base Valor (P): Es el valor tomado en pr&eacute;stamo, el bien o el capital invertido.</li><li>Tasa de inter&eacute;s (i): Introduzca la tasa de inter&eacute;s por la elecci&oacute;n de si va a ser un a&ntilde;o o mes.</li><li>Per&iacute;odo (n): Introduzca el per&iacute;odo en meses. El r&eacute;gimen inter&eacute;s compuesto es el m&aacute;s com&uacute;n en el sistema financiero y por lo tanto el m&aacute;s &uacute;til para problemas de c&aacute;lculo de la del d&iacute;a a d&iacute;a. Se utiliza para simular la financiaci&oacute;n y pr&eacute;stamos. Los intereses generados cada per&iacute;odo se incorporan a la principal para el c&aacute;lculo de inter&eacute;s para el per&iacute;odo siguiente.</li></ul><h2>Acerca de c&aacute;lculo utilizando la tabla de PRICE</h2><p>Un plan de financiaci&oacute;n es una forma de calcular y ajustar su disposici&oacute;n. La tabla de PRICE (sistema de amortizaci&oacute;n franc&eacute;s) es utilizado por todos los bancos en la provisi&oacute;n directa. Sistema tambi&eacute;n utilizado por los minoristas y financiero del cr&eacute;dito al consumo.</p><p>Para utilizar este m&eacute;todo activa la tecla correspondiente.</p><p>Nota: En este c&aacute;lculo no se consideran ning&uacute;n cargo adicional.</p><p>La f&oacute;rmula es la misma utilizada en el sitio del Banco Central de Brasil.</p><h1>De generaci&oacute;n de valor</h1><p>Facilita el trabajo de los operadores y vendedores de forma r&aacute;pida calcula los beneficios de la venta de los productos.</p><ul><li>Introduzca la cantidad de productos.</li><li>Total gastado en la compra de productos.</li><li>El valor que se vendi&oacute; la unidad de producto.</li></ul><h1>Valor comercial</h1><p>Se facilita el trabajo de los operadores y vendedores r&aacute;pidamente calcula el valor que el producto tendr&aacute; que ser vendido para ciertos beneficios.</p><ul><li>Introduzca la cantidad de productos.</li><li>Total gastado en la compra de productos.</li><li>El beneficio total que desea tener con la venta de productos.</li></ul><p>Tiene cuadro de texto correspondiente al porcentaje de beneficio obtenido.</p><h1>Cuenta Divide</h1><p>Se utiliza para dividir la cuenta del restaurante y otras compras con sus amigos o familiares.</p><p>Los campos a rellenar:</p><ul><li>Cuenta Total: Introduzca los valores de los productos que se consumen en el cuadro y pulse el bot&oacute;n (+) para a&ntilde;adir cuando haya terminado pulse el bot&oacute;n (=) para la cantidad total consumida.</li><li>N&uacute;mero de personas: Introduzca aqu&iacute; la cantidad de gente que va a dividir la factura.</li><li>Mostrar art&iacute;stica: Introduzca el valor de la serie, si no dejar en blanco.</li><li>Tasa de servicio: Active este interruptor si se paga el del camarero, escriba al lado el porcentaje del descuento.</li><li>Descuentos: Introduzca aqu&iacute; los valores que no entrar&aacute; en la habitaci&oacute;n, que se pagar&aacute;n por separado o descuentos concedidos por el establecimiento.</li></ul><br><br>";
+
+"Text_comprar_button" = "Comprar la app completa, sin publicidad!";
+
+"Men_tit" = "Menú";
+"Men_por" = "Porcentaje";
+"Men_jur_s" = "Interés simple";
+"Men_jur_c" = "Interés compuesto";
+"Men_val_l" = "Rentabilidad";
+"Men_val_v" = "Valor de venta";
+"Men_div" = "Dividir la cuenta";
+"Men_aju" = "Ayuda";
+"Men_sob" = "Acerca";
+"Men_no_Anuncio" = "App sin publicidad";
+
+
+"Sob_tit"= "Acerca";
+
+
+"Sob_app" = "¡Bienvenido! Este App te ayudará a calcular el valor de la cuenta en el restaurante y dividir con tus amigos, el app suma rápidamente el valor de todos los productos consumidos, hace cálculos de los valores de la propina del camarero y del show artístico y también asigna valores de descuento para el pago individual. Usar el App es simple, escriba los valores requeridos, pulse 'OK' para hacer la cuenta o 'Borrar' para borrar los campos.";
+
+"Res_val_jur"= "Valor total de Interés: $%@ \nImporte a pagar: $%@ \nProvisión de valor: $%@";
+"Res_val_jur_com"= "Valor total de Interés: $%@ \nImporte a pagar: $%@ \nProvisión de valor: $%@";
+"Res_cal_luc"= "Total de beneficios: $%@\nBeneficio por producto: $%@\nPorcentaje de beneficio: %@%@";
+"Res_cal_val_ven"= "Compra del producto: $%@\nLas ventas de productos: $%@\nEl beneficio por producto: $%@\nLas ventas totales: $%@\nEl beneficio total: $%@";
+"Res_div_con"= "La factura total: $%@\nPrecio por persona: $%@\nExhibición artística: $%@\nTasa de servicio: $%@\nDescuento: $%@";
+"Res_por_cif"= "$%.2f";
+

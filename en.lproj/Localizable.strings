@@ -1,0 +1,88 @@
+/* 
+  Localizable.strings
+  Compras
+
+  Created by Diogenes de Souza Negreiros on 04/02/17.
+  Copyright © 2017 Diogenes. All rights reserved.
+*/
+
+
+"CFBundleDisplayName" = "App Name";
+"CFBundleName" = "App Name";
+"SeparadorDecimal" = ".";
+
+
+"Ale_tit" = "Warning!";
+"Ale_msg" = "Please enter only numbers in integer or decimal format using comma or dot. \nFor example: \n12 \n12.00 \n1234,40!";
+
+"Ale_tit_int" = "Warning!";
+"Ale_msg_int" = "Please enter only numbers in integer. \nFor example: \n1220 \n12 \n140!";
+
+"Por_val" = "Value";
+"Por_com" = "With";
+"Por_de" = " ";
+"Por_des" = "Discount";
+"Por_acr" = "Addition";
+"Por_a_por_de" = "The value";
+"Por_cif" = " $";
+"Por_rep_no" = "Represents in value";
+"Por_per_de" = "Percent of";
+"Por_do_val" = "Of the value";
+
+"Jur_s_val" = "Base Value (P)";
+"Jur_s_jur" = "Interest (i)";
+"Jur_s_per" = "Period (n)";
+"Jur_s_mes" = "months";
+"Jur_s_esc_mes" = "per month";
+"Jur_s_esc_ano" = "a year";
+
+"Jur_c_val" = "Base Value (P)";
+"Jur_c_jur" = "Interest (i)";
+"Jur_c_per" = "Period (n)";
+"Jur_s_mes" = "months";
+"Jur_c_esc_mes" = "per month";
+"Jur_c_esc_ano" = "a year";
+"Jur_c_esc_pri" = "Simulate financing in the PRICE table";
+
+
+"Val_luc_qua" = "Quantity";
+"Val_luc_tot" = "Total";
+"Val_luc_uni" = "Sale unit";
+
+"Val_ven_qua" = "Quantity";
+"Val_ven_tot" = "Total payment";
+"Val_ven_des" = "Total profit desired";
+"Val_ven_per" = "Percentage of profit";
+
+"Div_tot" = "Account Total";
+"Div_qua" = "Number of people";
+"Div_sho" = "Artistic Show";
+"Div_gar" = "Tender of the waiter";
+"Div_des" = "Discounts";
+
+
+"Tex_aju" = "<style>body{background-color:#F0FFF0}ul{font-style:italic; font-size:large;color: black;}h1 {color:2F4F4F;text-align: center;font-style:italic;text-shadow: 696969 1px 1px 1px}h2{color:2F4F4F;text-align:left;font-style:italic;text-shadow: 696969 1px 1px 1px}p{font-style:italic;font-size:large;color: black;}</style><h1>Percentage</h1><p>Makes Percentage Calculations most used in everyday life.</p><ul><li>Calculate any amount with a discount percentage or increment, just press the appropriate button to do so.</li><li>Calculates the percentage that the first value represents in the second value.</li><li>Calculates the percentage of a value.</li></ul><h1>Simple Interest</h1><p>He does mathematical calculations using the simple interest formula, much used in math tests.</p><p>Used when the interest percentage affects only the principal amount.</p><p>No new interest will be charged on interest generated in each period.</p><p>Principal or simply principal amount is the initial amount borrowed or applied, before we add up the interest.</p><p>Transforming into a formula we have:</p><p>J = P.i.n.</p><p>At where:</p><ul><li>J = interest.</li><li>P = principal (capital).</li><li>i = interest rate.</li><li>n = number of periods.</li></ul><ul><li>Base Value (P): It is the amount borrowed, the good or the invested capital.</li><li>Interest rate (i): Enter the interest rate by choosing whether it will be the year or the month.</li><li>Period (n): Enter the period in months.</li></ul><h1>Compound interest</h1><ul><li>Base Value (P): It is the amount borrowed, the good or the invested capital.</li><li>Interest rate (i): Enter the interest rate by choosing whether it will be the year or the month.</li><li>Period (n): Enter the period in months.</li></ul><p>The compound interest rate is the most common in the financial system and therefore the most useful for calculating day-to-day problems. Used to simulate financing and loans. The interest generated for each period is incorporated into the principal for the calculation of interest for the following period.</p><h2>About the calculation using the PRICE table</h2><p>A financing plan is a way to calculate and readjust your installment. The PRICE (French amortization system) table is used by all banks in direct financing. System also used by retailers and financiers in direct consumer credit.</p><p>To use this method, activate the corresponding key.</p><p>Note: In this calculation are not considered any additional fee.</p><p>The formula is the same used on the website of the Central Bank of Brazil.</p><h1>Profit Value</h1><p>It facilitates the work of merchants and sellers, quickly calculates the profits obtained from the sale of the products.</p><ul><li>Enter the quantity of products.</li><li>Total spent on the purchase of products.</li><li>The value that will be sold to the unit of the product.</li></ul><h1>Sale value</h1><p>It facilitates the work of traders and sellers, quickly calculates the value that the product will have to be sold to make a profit.</p><ul><li>Enter the quantity of products.</li><li>Total spent on the purchase of products.</li><li>The total profit you want to have with the sale of the products.</li><li>It has a text box corresponding to the percentage of profit obtained.</li></ul><h1>Splits Account</h1><p>Used to split the restaurant bill and other purchases with your friends or family.</p><p>Fields to fill:</p><ul><li>Total Account: Enter the values ​​of the products consumed in the box and press the (+) button to add when finished. Press the (=) button to get the total value consumed.</li><li>Number of people: Enter here the number of people who will split the account.</li><li>Artistic Show: Enter the value of the show, if there was no leave blank.</li><li>Waiter Key: Turn on this key if you are going to pay of the Waiter, type next to the discount percentage.</li><li>Discounts: Enter here the values ​​that will not enter the division, which will be paid separately or discounts given by the establishment.</li></ul><br><br>";
+
+"Text_comprar_button" = "Buy full app without advertising!";
+
+"Men_tit" = "Menu";
+"Men_por" = "Percentage";
+"Men_jur_s" = "Simple Interest";
+"Men_jur_c" = "Compound interest";
+"Men_val_l" = "Profit value";
+"Men_val_v" = "Sales value";
+"Men_div" = "Share the account";
+"Men_aju" = "Help";
+"Men_sob" = "About";
+"Men_no_Anuncio" = "Buy Without Ads";
+
+"Sob_tit"= "About";
+
+"Sob_app" = "Welcome! This App will help you calculate the value of the account in the restaurant and share it with your friends, the app quickly sums up the value of all the products consumed, calculates the values of the waiter's tip and the artistic show and also assigns discount values for individual payment. Using the App is simple, enter the required values, press 'OK' to make the account or 'erase' to clear the fields.";
+
+"Res_val_jur"= "Total amount of interest: $%@\nAmount payable: $%@\nAmount of installment: $%@";
+"Res_val_jur_com"= "Total amount of interest: $%@\nAmount payable: $%@\nAmount of installment: $%@";
+"Res_cal_luc"= "Total Profit: $%@\nProfit by product: $%@\nPercentage of profit: %@%@";
+"Res_cal_val_ven"= "Product purchase: $%@\nSale of the product: $%@\nProfit by product: $%@\nTotal sales: $%@\nTotal profit: $%@";
+"Res_div_con"= "Total of the account: $%@\nValue per person: $%@\nArtistic exhibition: $%@\nService charge: $%@\nDiscounted: $%@";
+"Res_por_cif"= "$%.2f";

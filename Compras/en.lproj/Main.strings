@@ -1,0 +1,159 @@
+
+/* Class = "UILabel"; text = "R$"; ObjectID = "1gM-ym-bsY"; */
+"1gM-ym-bsY.text" = " $";
+
+/* Class = "UILabel"; text = "%"; ObjectID = "4Co-en-fIf"; */
+"4Co-en-fIf.text" = "%";
+
+/* Class = "UILabel"; text = "com"; ObjectID = "59e-8Y-3eh"; */
+"59e-8Y-3eh.text" = "with";
+
+/* Class = "UILabel"; text = "do valor"; ObjectID = "6Tk-gh-wrR"; */
+"6Tk-gh-wrR.text" = "of value";
+
+/* Class = "UILabel"; text = "de"; ObjectID = "D4w-z5-L22"; */
+"D4w-z5-L22.text" = "in";
+
+/* Class = "UILabel"; text = "R$"; ObjectID = "DQO-UT-Mra"; */
+"DQO-UT-Mra.text" = " $";
+
+/* Class = "UILabel"; text = "Unidade(venda)"; ObjectID = "G7X-5V-xR7"; */
+"G7X-5V-xR7.text" = "Unit for sale";
+
+/* Class = "UILabel"; text = "Show artístico"; ObjectID = "JhA-I5-baV"; */
+"JhA-I5-baV.text" = "Artistic exhibition";
+
+/* Class = "UILabel"; text = "Total Pago"; ObjectID = "KJ7-UC-LTE"; */
+"KJ7-UC-LTE.text" = "Total Paid";
+
+/* Class = "UILabel"; text = "Período (n)"; ObjectID = "Lo6-iQ-Jjm"; */
+"Lo6-iQ-Jjm.text" = "Period";
+
+/* Class = "UILabel"; text = "Valor base (P)"; ObjectID = "MTl-Qb-eTw"; */
+"MTl-Qb-eTw.text" = "Base value";
+
+/* Class = "UILabel"; text = "%"; ObjectID = "MnN-qP-CC8"; */
+"MnN-qP-CC8.text" = "%";
+
+/* Class = "UILabel"; text = "R$"; ObjectID = "O8h-xm-lKN"; */
+"O8h-xm-lKN.text" = " $";
+
+/* Class = "UILabel"; text = "Quantidade"; ObjectID = "Pqw-yl-BPl"; */
+"Pqw-yl-BPl.text" = "Amount";
+
+/* Class = "UILabel"; text = "Total da conta"; ObjectID = "Qb8-ZS-SVC"; */
+"Qb8-ZS-SVC.text" = "Total account";
+
+/* Class = "UILabel"; text = "Quantidade de pessoas"; ObjectID = "RYt-mp-AkK"; */
+"RYt-mp-AkK.text" = "Amount of people";
+
+/* Class = "UILabel"; text = "Juros (i)"; ObjectID = "So8-R1-926"; */
+"So8-R1-926.text" = "Interest";
+
+/* Class = "UILabel"; text = "Lucro Total Desejado "; ObjectID = "Su4-r3-xPi"; */
+"Su4-r3-xPi.text" = "Total Desired Profit ";
+
+/* Class = "UILabel"; text = "Juros (i)"; ObjectID = "T3s-Ih-kFJ"; */
+"T3s-Ih-kFJ.text" = "Interest";
+
+/* Class = "UILabel"; text = "R$"; ObjectID = "TIH-g3-EiZ"; */
+"TIH-g3-EiZ.text" = " $";
+
+/* Class = "UILabel"; text = "Percentual de Lucro"; ObjectID = "U3Q-Uw-MYP"; */
+"U3Q-Uw-MYP.text" = "Percentage of Profit";
+
+/* Class = "UILabel"; text = "Período (n)"; ObjectID = "VXk-0z-L92"; */
+"VXk-0z-L92.text" = "Period";
+
+/* Class = "UILabel"; text = "Simular Financiamento"; ObjectID = "Vv4-bU-dru"; */
+"Vv4-bU-dru.text" = "Simulate financing";
+
+/* Class = "UILabel"; text = "meses"; ObjectID = "Vx7-Ny-78R"; */
+"Vx7-Ny-78R.text" = "months";
+
+/* Class = "UILabel"; text = "Total da compra"; ObjectID = "ZGX-zJ-wsb"; */
+"ZGX-zJ-wsb.text" = "Total purchase";
+
+/* Class = "UILabel"; text = "R$"; ObjectID = "Zc7-er-aom"; */
+"Zc7-er-aom.text" = " $";
+
+/* Class = "UILabel"; text = "R$"; ObjectID = "aBb-mo-CBy"; */
+"aBb-mo-CBy.text" = " $";
+
+/* Class = "UILabel"; text = "R$"; ObjectID = "aSM-9X-VQi"; */
+"aSM-9X-VQi.text" = " $";
+
+/* Class = "UILabel"; text = "Valor"; ObjectID = "afB-G3-Gsd"; */
+"afB-G3-Gsd.text" = "Value";
+
+/* Class = "UISegmentedControl"; ddQ-u2-XyZ.segmentTitles[0] = "ao mês"; ObjectID = "ddQ-u2-XyZ"; */
+"ddQ-u2-XyZ.segmentTitles[0]" = "month";
+
+/* Class = "UISegmentedControl"; ddQ-u2-XyZ.segmentTitles[1] = "ao ano"; ObjectID = "ddQ-u2-XyZ"; */
+"ddQ-u2-XyZ.segmentTitles[1]" = "year";
+
+/* Class = "UILabel"; text = "na tabela PRICE?"; ObjectID = "fEv-TS-RZs"; */
+"fEv-TS-RZs.text" = "in the PRICE table?";
+
+/* Class = "UISegmentedControl"; hky-EP-Y94.segmentTitles[0] = "ao mês"; ObjectID = "hky-EP-Y94"; */
+"hky-EP-Y94.segmentTitles[0]" = "month";
+
+/* Class = "UISegmentedControl"; hky-EP-Y94.segmentTitles[1] = "ao ano"; ObjectID = "hky-EP-Y94"; */
+"hky-EP-Y94.segmentTitles[1]" = "year";
+
+/* Class = "UILabel"; text = "Gorjeta do garçom?"; ObjectID = "hvs-t3-EWK"; */
+"hvs-t3-EWK.text" = "Service charge?";
+
+/* Class = "UILabel"; text = "A porcentagem de"; ObjectID = "iIq-Ju-6pv"; */
+"iIq-Ju-6pv.text" = "The percentage of";
+
+/* Class = "UILabel"; text = "R$"; ObjectID = "ixj-xQ-qH9"; */
+"ixj-xQ-qH9.text" = " $";
+
+/* Class = "UILabel"; text = "R$"; ObjectID = "jxx-2z-NtM"; */
+"jxx-2z-NtM.text" = " $";
+
+/* Class = "UILabel"; text = "Percentual de "; ObjectID = "lgK-Wd-UYT"; */
+"lgK-Wd-UYT.text" = "Percentage of";
+
+/* Class = "UILabel"; text = "Descontos"; ObjectID = "m7E-ob-Tye"; */
+"m7E-ob-Tye.text" = "Discount";
+
+/* Class = "UILabel"; text = "R$"; ObjectID = "nGC-1T-3r2"; */
+"nGC-1T-3r2.text" = " $";
+
+/* Class = "UILabel"; text = "R$"; ObjectID = "nfc-u8-nSG"; */
+"nfc-u8-nSG.text" = " $";
+
+/* Class = "UILabel"; text = "R$"; ObjectID = "o9I-nD-bqQ"; */
+"o9I-nD-bqQ.text" = " $";
+
+/* Class = "UILabel"; text = "%"; ObjectID = "oOU-5b-emM"; */
+"oOU-5b-emM.text" = "%";
+
+/* Class = "UILabel"; text = "meses"; ObjectID = "qz0-yc-K6Q"; */
+"qz0-yc-K6Q.text" = "months";
+
+/* Class = "UILabel"; text = "representa no valor"; ObjectID = "uJx-cf-9sn"; */
+"uJx-cf-9sn.text" = "Represents in value";
+
+/* Class = "UILabel"; text = "Valor base (P)"; ObjectID = "ukr-O7-577"; */
+"ukr-O7-577.text" = "Base value";
+
+/* Class = "UILabel"; text = "Quantidade"; ObjectID = "w27-wf-FIG"; */
+"w27-wf-FIG.text" = "Amount";
+
+/* Class = "UILabel"; text = "R$"; ObjectID = "x4Y-kB-dRb"; */
+"x4Y-kB-dRb.text" = "$";
+
+/* Class = "UILabel"; text = "R$"; ObjectID = "ys8-0c-X5p"; */
+"ys8-0c-X5p.text" = " $";
+
+/* Class = "UISegmentedControl"; zOU-UP-10S.segmentTitles[0] = "Desconto"; ObjectID = "zOU-UP-10S"; */
+"zOU-UP-10S.segmentTitles[0]" = "Discount";
+
+/* Class = "UISegmentedControl"; zOU-UP-10S.segmentTitles[1] = "Acrescimo"; ObjectID = "zOU-UP-10S"; */
+"zOU-UP-10S.segmentTitles[1]" = "Addition";
+
+/* Class = "UILabel"; text = "%"; ObjectID = "zWy-6A-Mgc"; */
+"zWy-6A-Mgc.text" = "%";
