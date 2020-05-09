@@ -27,7 +27,7 @@
     // Override point for customization after application launch.
     
     // Initialize Google Mobile Ads SDK
-    [GADMobileAds configureWithApplicationID:@"ca-app-pub-7764785023267812~3615036609"];  //ca-app-pub-7764785023267812~3615036609
+    [GADMobileAds configureWithApplicationID:@"ca-app-pub-XXXXXXXXXXXXXXXXXXXX"];  
     return YES;
 }
 
