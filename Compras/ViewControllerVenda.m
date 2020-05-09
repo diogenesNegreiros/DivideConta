@@ -40,11 +40,11 @@
     
    
     self.interstitial.delegate = self;
-    self.interstitial = [[GADInterstitial alloc] initWithAdUnitID:@"ca-app-pub-7764785023267812/1203175460"];
+    self.interstitial = [[GADInterstitial alloc] initWithAdUnitID:@"ca-app-pub-XXXXXXXXXXXXXXXXXXXXXXXXXXX"];
     [self.interstitial loadRequest:requestIntersVenda]; // faz a requisição do anuncio interstitial
     
 
-    self.bannerView.adUnitID = @"ca-app-pub-7764785023267812/3933759511";
+    self.bannerView.adUnitID = @"ca-app-pub-XXXXXXXXXXXXXXXXXXXXXXXXXXX";
      self.bannerView.delegate = self;
     [self showBanner:self.bannerView];
     
