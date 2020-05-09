@@ -45,11 +45,11 @@ GADRequest* requestIntersDiv;
     // Do any additional setup after loading the view.
     
     self.interstitial.delegate = self;
-    self.interstitial = [[GADInterstitial alloc] initWithAdUnitID:@"ca-app-pub-7764785023267812/2942272700"];
+    self.interstitial = [[GADInterstitial alloc] initWithAdUnitID:@"ca-app-pub-XXXXXXXXXXXXXXXXXXXXXXXXXXX"];
     [self.interstitial loadRequest:requestIntersDiv]; // faz a requisição do anuncio interstitial
     
     
-    self.banner.adUnitID = @"ca-app-pub-7764785023267812/4698331213";
+    self.banner.adUnitID = @"ca-app-pub-XXXXXXXXXXXXXXXXXXXXXXX";
     self.banner.delegate = self;
     [self showBanner:self.banner];
     
@@ -275,7 +275,7 @@ GADRequest* requestIntersDiv;
     }else {
         NSLog(@"AdMob não disparou interstitial!");
     }
-    self.interstitial = [[GADInterstitial alloc] initWithAdUnitID:@"ca-app-pub-7764785023267812/2942272700"];
+    self.interstitial = [[GADInterstitial alloc] initWithAdUnitID:@"ca-app-pub-XXXXXXXXXXXXXXXXXXXXXXXXXX"];
     [self.interstitial loadRequest:requestIntersDiv];
 }
 
