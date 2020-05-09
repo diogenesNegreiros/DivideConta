@@ -31,18 +31,18 @@ GADRequest *request;
                                     repeats:YES];
     
     
-    self.interstitial = [[GADInterstitial alloc] initWithAdUnitID:@"ca-app-pub-7764785023267812/8725206135"];
+    self.interstitial = [[GADInterstitial alloc] initWithAdUnitID:@"ca-app-pub-XXXXXXXXXXXXXXXXXXXXXXXXXXXX"];
     self.interstitial.delegate = self;
    
      [self.interstitial loadRequest:request];
     
     // Request test ads on devices you specify. Your test device ID is printed to the console when
     // an ad request is made.
-    //    request.testDevices = @[ kGADSimulatorID, @"33BE2250B43518CCDA7DE426D04EE232"];
+    //    request.testDevices = @[ kGADSimulatorID, @"XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"];
    
     
     // Replace this ad unit ID with your own ad unit ID.
-    self.bannerView.adUnitID = @"ca-app-pub-7764785023267812/1613002875";
+    self.bannerView.adUnitID = @"ca-app-pub-XXXXXXXXXXXXXXXXXXXXXXXX";
     self.bannerView.rootViewController = self;
     GADRequest *banRequest = [GADRequest request];
     [self.bannerView loadRequest:banRequest];
@@ -78,7 +78,7 @@ GADRequest *request;
     }else {
         NSLog(@"AdMob não disparou interstitial!");
     }
-    self.interstitial = [[GADInterstitial alloc] initWithAdUnitID:@"ca-app-pub-7764785023267812/8725206135"];
+    self.interstitial = [[GADInterstitial alloc] initWithAdUnitID:@"ca-app-pub-XXXXXXXXXXXXXXXXXXXXXXXXXXXX"];
     [self.interstitial loadRequest:request];
 }
 
